@@ -1,1 +1,1 @@
-# Multiple-Linear-Regression-model-to-predict-taxi-fares-Project
+# Multiple Linear Regression Model to Predict Taxi Fares
