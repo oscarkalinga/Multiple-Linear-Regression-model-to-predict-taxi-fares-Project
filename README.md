@@ -1,5 +1,8 @@
 # Multiple Linear Regression Model to Predict Taxi Fares
-# Business Understanding
+
+# Project Overview
+
+# Business Case
 
 # Data Understanding
 
